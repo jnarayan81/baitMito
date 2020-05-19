@@ -1,2 +1,2 @@
 # baitMito
-Discovering mitochondrion genome baited with reference
+Discovering mitochondrial genome baited with reference
